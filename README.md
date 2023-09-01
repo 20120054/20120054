@@ -42,8 +42,7 @@ All my projects are organized in lists, make sure to check them!
 - 🌿 Mongoose
 - 🛠️ These are my most used, but I also learning to work with others!
 
-## Articles
-- [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
+
 
 ## Specialized courses
 - 📗 [NodeJS](https://www.udemy.com/course/node-de-cero-a-experto/)
