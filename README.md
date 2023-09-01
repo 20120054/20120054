@@ -11,7 +11,6 @@ All my projects are organized in lists, make sure to check them!
 - [🧩 Algorithms ](https://github.com/stars/alesbe/lists/algorithms)
 - [☕ Java Projects](https://github.com/stars/alesbe/lists/java-projects)
 - [🎨 Front-End Design](https://github.com/stars/alesbe/lists/front-end-design)
-- [📡 Rust / C++](https://github.com/stars/alesbe/lists/rust-c)
 - ...
 - 😄 I organized some of my projects in lists, but you can also check my repos!
 
@@ -29,8 +28,7 @@ All my projects are organized in lists, make sure to check them!
 - ☕ Java
 - 🔩 C++
 - 🐍 Python
-- ...
-- 🧠 Those are my main ones, ease to learn new languages and frameworks!
+- 🧠 Those are my main ones.
 
 ## Frameworks and technologies
 - ⚛️ ReactJS
@@ -38,15 +36,11 @@ All my projects are organized in lists, make sure to check them!
 - 🏵️ Spring Boot
 - 🍃 MongoDB
 - 💽 MySQL
-- 📱 React Native
 - 🐳 Docker / Docker Compose
 - 🧶 Git
 - 🪁 Express.js
-- 🎢 Socket.IO / Socket.IO Client
 - 🌿 Mongoose
-- 📊 SFML
-- ...
-- 🛠️ These are my most used, but I also worked with others!
+- 🛠️ These are my most used, but I also learning to work with others!
 
 ## Articles
 - [🐳 Improve any project — Why everyone is talking about Docker?](https://medium.com/@alesbe/docker-101-dockerizing-your-first-app-650613959cf7)
